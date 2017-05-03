@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "730890223016",
+    "firebase_url": "https://gsfinder-ad1ed.firebaseio.com",
+    "project_id": "gsfinder-ad1ed",
+    "storage_bucket": "gsfinder-ad1ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730890223016:android:38ef7f4768ed754a",
+        "android_client_info": {
+          "package_name": "com.example.krixniemann.gsfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730890223016-glldogd52v4ohqrthjq2n4cp67hv7rsh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.krixniemann.gsfinder",
+            "certificate_hash": "5793c8ac132b073d3ffd9492b88ac0f1238dab5b"
+          }
+        },
+        {
+          "client_id": "730890223016-d7q6ip0r6iane8fvn5d6q5e3vsh9j5s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmYzSi_fHbUZGpOyZpmY2vJieHwiCgw5Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730890223016-d7q6ip0r6iane8fvn5d6q5e3vsh9j5s2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
